@@ -1,0 +1,15 @@
+# Comentarios comienzan con el símbolo #
+# Ignorar archivos de texto
+*.txt
+
+# Ignorar archivos compilados
+*.exe
+*.o
+*.out
+
+# Ignorar directorios de entornos virtuales de Python
+venv/
+
+# Ignorar archivos de configuración de sistema
+.DS_Store
+Thumbs.db
